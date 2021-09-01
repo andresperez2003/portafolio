@@ -129,6 +129,7 @@ header {
   text-align: center;
   padding-top: 260px;
   background-image: url("fondo4.jpg");
+  background-size: 100% 100%;
 }
 .second {
   background: #35305c;
